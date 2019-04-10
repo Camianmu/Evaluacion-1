@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+  body {font-family: 'Merriweather', serif;
+padding-top: 3.5rem;}
+
+.jumbotron{
+    background:
+    linear-gradient(to bottom, rgba(242, 223, 247, 0.3) 0%,
+    rgba(250, 250, 250  ,1) 100%),
+    url("https://i.ytimg.com/vi/exVqZSYxS2k/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+  }
+
+h1 {
+  text-align: center;
+}
